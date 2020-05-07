@@ -1,0 +1,54 @@
+=> [1;34m#(Document:0x2afc51b9e740 {[0m
+  name = [31m[1;31m"[0m[31mdocument[1;31m"[0m[31m[0m,
+  children = [
+    [1;34m#(DTD:0x2afc5121c30c {[0m name = [31m[1;31m"[0m[31mhtml[1;31m"[0m[31m[0m }),
+    [1;34m#(Element:0x2afc51b9e600 {[0m
+      name = [31m[1;31m"[0m[31mhtml[1;31m"[0m[31m[0m,
+      attributes = [
+        [1;34m#(Attr:0x2afc511c38d8 {[0m name = [31m[1;31m"[0m[31mlang[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mfr[1;31m"[0m[31m[0m }),
+        [1;34m#(Attr:0x2afc511c384c {[0m
+          name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+          value = [31m[1;31m"[0m[31mwide wow-animation[1;31m"[0m[31m[0m
+          })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\r[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x2afc51c74fac {[0m
+          name = [31m[1;31m"[0m[31mhead[1;31m"[0m[31m[0m,
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\r[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+            [1;34m#(Comment [0m[31m[1;31m"[0m[31mSite Title[1;31m"[0m[31m[0m),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\r[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x2afc51c67618 {[0m
+              name = [31m[1;31m"[0m[31mtitle[1;31m"[0m[31m[0m,
+              children = [
+                [1;34m#(Text [0m[31m[1;31m"[0m[31mAnnuaire des mairies - Commune de BAILLET-EN-FRANCE - Département VAL D'OISE[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\r[0m[31m[1;35m\n[0m[31m[1;35m\t[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x2afc51c5cce0 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x2afc51c5c434 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mDC.title[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x2afc51c5c420 {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mAnnuaire des mairies - Commune de BAILLET-EN-FRANCE - Département VAL D'OISE[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\r[0m[31m[1;35m\n[0m[31m[1;35m\t[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x2afc51c2fccc {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x2afc51c2f420 {[0m
+                  name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mdescription[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x2afc51c2f40c {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mMairie de BAILLET-EN-FRANCE: Informations générales sur la mairie et la commune de BAILLET-EN-FRANCE - Adresse Mairies, téléphone, altitude mairie, superficie de la commune, ...[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\r[0m[31m[1;35m\n[0m[31m[1;35m\t[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x2afc51bf8ed4 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x2afc51bf8100 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mkeywords[1;31m"[0m[31m[0m }),
+                

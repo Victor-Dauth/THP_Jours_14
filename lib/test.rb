@@ -9,7 +9,7 @@ Pour inicier le dossier penser a créer les fichier suivant :
  Puis lancer git init
  Puis lancer git remote add origin "le lien github"
 =end
-require 'notogiri'
+require 'nokogiri'
 require 'pry'
 
 #binding.pry #permet de lance PRY a cette endroit (exit pour quitter, si on est dans une boucle exite passe a l'étape suivante. Donc exit exit ou !!! pour quitter)
